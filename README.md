@@ -3,7 +3,7 @@
 Setup Scripts
 Clone the repository into a folder
 
-Go inside the folder and run following command from terminal/command prompt 
+Go inside the folder and run following command from terminal/command prompt
 npm install 
 
 Run Scripts
